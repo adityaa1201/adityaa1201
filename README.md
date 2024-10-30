@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adityaa1201
+- 👋 Hi, I’m Adityarai
 - 👀 I’m interested in seeing good projects
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 How to reach me on LinkedIn
+
 
 <!---
 adityaa1201/adityaa1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
